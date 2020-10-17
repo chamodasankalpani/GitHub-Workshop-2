@@ -9,7 +9,7 @@
 
 ## Steps:
 
-1. Fork this repo to your account
+1. Fork this repo to your accounts
 2. Clone it to you local repository
 3. Open folder with any text editor
 4. Enter your details correctly
